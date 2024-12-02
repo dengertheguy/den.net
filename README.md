@@ -1,7 +1,10 @@
-# DengerNetwork GUI for Apocalypse Rising 2
+# DengerNetwork | Apocalypse Rising 2
 
 Welcome to the official **DengerNetwork GUI** for Apocalypse Rising 2. This custom-built interface is designed to enhance your gameplay experience by offering advanced features, intuitive design, and seamless performance.
 
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dengertheguy/dengernetworkapoc/refs/heads/main/main.lua"))()
+```
 ---
 
 ## ✨ Features
@@ -28,11 +31,6 @@ Welcome to the official **DengerNetwork GUI** for Apocalypse Rising 2. This cust
 - **Custom Keybinds**: Assign and change keybinds to quickly open the GUI.
 - **Configuration Saving**: Manage personalized settings for a seamless user experience.
 
----
-
-## 🔧 Usage
-
-To use the DengerNetwork GUI, load the script in your executor by copying and pasting the following code:
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/dengertheguy/dengernetworkapoc/refs/heads/main/main.lua"))()
