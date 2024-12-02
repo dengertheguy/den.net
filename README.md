@@ -30,7 +30,3 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/dengertheguy/dengerne
 ### **Settings Tab**
 - **Custom Keybinds**: Assign and change keybinds to quickly open the GUI.
 - **Configuration Saving**: Manage personalized settings for a seamless user experience.
-
-
-```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/dengertheguy/dengernetworkapoc/refs/heads/main/main.lua"))()
