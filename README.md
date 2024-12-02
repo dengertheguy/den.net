@@ -3,7 +3,7 @@
 Welcome to the official **DengerNetwork GUI** for Apocalypse Rising 2. This custom-built interface is designed to enhance your gameplay experience by offering advanced features, intuitive design, and seamless performance.
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/dengertheguy/dengernetworkapoc/refs/heads/main/main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dengertheguy/DengerNetworkAR2/refs/heads/main/main.lua"))()
 ```
 ---
 
