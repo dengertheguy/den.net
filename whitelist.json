@@ -1,1 +1,6 @@
-[913000458]
+{
+  "whitelistedUsers": [
+    "913000458",  // Example UserID
+    "9876543210"   // Another Example UserID
+  ]
+}
