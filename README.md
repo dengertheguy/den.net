@@ -5,7 +5,7 @@ Welcome to the official **den.net GUI** for Apocalypse Rising 2. This custom-bui
 ## 🚀 Quick Start
 
 ```lua
-loadstring(game:HttpGet("https://github.com/dengertheguy/den.net/blob/main/README.md"))()
+[loadstring(game:HttpGet("https://github.com/dengertheguy/den.net/blob/main/README.md"))()](https://raw.githubusercontent.com/dengertheguy/den.net/refs/heads/main/main.lua)
 ```
 
 ## ✨ Features
