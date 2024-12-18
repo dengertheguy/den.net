@@ -106,4 +106,4 @@ Join our community:
 This tool is for educational purposes only. Use at your own risk and in accordance with game terms of service.
 
 ---
-© 2023 den.net. All rights reserved.
+© 2024 den.net. All rights reserved.
